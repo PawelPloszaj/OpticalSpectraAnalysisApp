@@ -1,0 +1,1 @@
+start "" "javaw.exe" -jar C:\Users\PC\IdeaProjects\OpticalSpectraAnalysis\target\OpticalSpectraAnalysis-1.0-SNAPSHOT-jar-with-dependencies.jar
